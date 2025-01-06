@@ -21,4 +21,4 @@ print("Hello world!")
 
 [README.md](https://github.com/Firebear518/guess_number_game/edit/main/README.md)
 
-[README](https://github.com/Firebear518/guess_number_game/edit/main/README.md, "README로 이동")
+[README](https://github.com/Firebear518/guess_number_game/edit/main/README.md "README로 이동")

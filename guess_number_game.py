@@ -14,5 +14,9 @@ while(True):
     ipt = 0
     print("----------------------------------")
     ipt = int(input("Your Input: "))
-    comparing(random_number, ipt)
+    if comparing_number(random_number, ipt) == "정답입니다!":
+        print("[#] 맞추셨습니다.")
+        break
+    else:
+        print("[#] " + comparing_number(random_number, ipt))
     print("----------------------------------")

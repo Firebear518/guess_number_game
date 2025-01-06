@@ -1,5 +1,5 @@
 from ? import ?
-from ? import ?
+from comparing2 import comparing_number
 
 print("----------------------------------")
 print("[#] Guess Number Game")
